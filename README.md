@@ -1,4 +1,18 @@
-Drobox-clone "https://drop-box-clone.netlify.app"
+# Welcome Dropbox
+
+<h3>This is clone-<a href="https://drop-box-clone.netlify.app">Dropbox</a></h3>
+
+# Abilities 
+<ul>
+<li>Auth</li>
+<li>Create Folder</li>
+<li>Create File</li>
+<li>Upload Files</li>
+<li>View Profile</li>
+<li>Edit Profile</li>
+</ul>
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
