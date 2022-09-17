@@ -12,6 +12,13 @@
 <li>Edit Profile</li>
 </ul>
 
+# Dropbox images
+
+![Снимок экрана (28)](https://user-images.githubusercontent.com/106737645/190848192-991b3f5b-9595-4398-a1a3-97315a6dab09.jpg)
+
+![Снимок экрана (30)](https://user-images.githubusercontent.com/106737645/190848213-79774709-9fb8-48fa-bccf-94cdcd27015e.jpg)
+
+![Снимок экрана (31)](https://user-images.githubusercontent.com/106737645/190848223-bb6436dd-1e53-489b-b984-39a8cdee8eda.jpg)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
